@@ -17,7 +17,7 @@ iOS and Web.
 
 | Member | Responsibility |
 |---|---|
-| Elvis Ncube | Cloud Engineering, Backend & Integration Leadership |
+| Elvis Ncube | Cloud Engineering, Backend & Integration |
 | Harold Ormeño Meneses | Mobile Application & Frontend |
 | Aashma | Security & Access Control |
 | Reshma Thomas | AI Learning Content & Evaluations |
